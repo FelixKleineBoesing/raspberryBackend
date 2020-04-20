@@ -1,8 +1,8 @@
-# Rapsberry Pi/Arduino Backend (In Development)
+# Raspberry Pi/Arduino Backend (In Development)
 
 ### Introduction 
 
-This repository supplies a backend that runs on a rapsberry pi and gathers informations from different 
+This repository supplies a backend that runs on a raspberry pi and gathers informations from different 
 sensors (temperature, humidity, IR) taht are wireless connected with the rapsberry pi via arduino modules.
 
 ### Hardware
